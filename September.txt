@@ -3,3 +3,7 @@ Bananas
 Strawberries
 Blueberries
 Pinapple 
+Vegetables
+onions
+tomatoes
+celery
